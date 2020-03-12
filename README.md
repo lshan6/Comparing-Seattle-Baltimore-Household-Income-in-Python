@@ -9,5 +9,5 @@ Opportunity Atlas contains anonymous data following 20 million Americans from ch
 ## Conclusion
 The following chart shows the median househould income in 1990 and 2016 for Baltimore, Seattle and the nation as a whole. The growth rate for the median household income for Baltimore and Seattle are 1.5% and 19.3% respectively, while the nationwide growth rate is 9.0%. In other words, Seattle has a comparably higher social mobility than Baltimore.
 
-![alt text](https://github.com/lshan6/comparing-baltimore-seattle-household-income/blob/master/chart.PNG)
+![alt text](https://github.com/lshan6/Comparing-Seattle-Baltimore-Household-Income-in-Python/blob/master/newplot.png)
 
